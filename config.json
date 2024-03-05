@@ -34,5 +34,6 @@
     "transports.iscsi.tcpUserTimeoutMilliseconds": 60000,
     "transports.iscsi.timeoutSeconds": 60,
     "transports.mercuryFTP.maxRetries": 1,
-    "transports.mercuryFTP.writeAck": true
+    "transports.mercuryFTP.writeAck": true,
+    "net.dtcserver.connectTimeout": 1800
 }
